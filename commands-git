@@ -6,3 +6,7 @@
 -git push -u origin main
 3/ la commandequi permet de pull.
 git pull 
+4/ la commande qui permet de creer une branche 
+-git branch
+5/ la commande qui permet de switcher de branche
+-git checkout "le nom de la branche"
