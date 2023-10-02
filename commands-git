@@ -1,0 +1,6 @@
+1/ la commande pour cloner un repository
+- git clone 
+2/ Les 3 commandes de push 
+- git add
+- git commit -m
+-git push -u origin main
